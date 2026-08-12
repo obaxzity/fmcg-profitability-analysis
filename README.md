@@ -2,7 +2,7 @@
 
 ## How Can Profit Increase When Sales Are Flat?
 
-An Excel-based business analytics case study investigating how profitability can improve even when sales performance is relatively flat.
+An Excel-based business analytics project investigating how profitability can improve even when sales performance is relatively flat.
 
 ## Business Problem
 
@@ -109,7 +109,7 @@ This demonstrates why revenue alone should not be used to evaluate business perf
 
 ## Recommendations
 
-Based on the analysis, management should:
+Based on the analysis, i told management to:
 
 - Maintain disciplined discounting.
 - Monitor product costs as a percentage of sales.
@@ -149,7 +149,7 @@ The Excel dashboard provides an interactive view of:
 
 ## Conclusion
 
-This case study demonstrates an important business analytics principle:
+This project demonstrates an important business analytics principle:
 
 > **Higher sales do not always mean higher profitability.**
 
@@ -157,6 +157,6 @@ By analyzing revenue, discounts, costs, margins and product performance together
 
 ---
 
-**Created by BizNalytiq**
+**Created by Obasemo Sodiq, Founder of BizNalytiq**
 
 Business Analytics | Finance | Strategy
