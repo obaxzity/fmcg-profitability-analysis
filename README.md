@@ -131,7 +131,11 @@ The Excel dashboard provides an interactive view of:
 - Product profitability
 - Monthly performance
 
-![FMCG Profitability Dashboard](images/dashboard.png)
+*The dashboard is presented in two parts for clearer visualization.*
+
+![FMCG Profitability Dashboard - Part 1](images/dashboard.png)
+
+![FMCG Profitability Dashboard - Part 2](images/dashboard2.png)
 
 ## Project Files
 
